@@ -1,0 +1,11 @@
+#!/bin/bash
+#SBATCH --output=omp_matmul_collapse.log
+module load intel
+
+for n in 250 500 750 1000 2000
+do
+    for t in 1 2 4 8
+    do
+        ./omp_matmul_collapse $n $t 10
+    done
+done

@@ -1,0 +1,80 @@
+size n   = 250
+average  = 0.00769477 secs
+num thrds = 1
+Done.
+size n   = 250
+average  = 0.00464902 secs
+num thrds = 2
+Done.
+size n   = 250
+average  = 0.00282133 secs
+num thrds = 4
+Done.
+size n   = 250
+average  = 0.00192220 secs
+num thrds = 8
+Done.
+size n   = 500
+average  = 0.07432468 secs
+num thrds = 1
+Done.
+size n   = 500
+average  = 0.04029796 secs
+num thrds = 2
+Done.
+size n   = 500
+average  = 0.02187142 secs
+num thrds = 4
+Done.
+size n   = 500
+average  = 0.01250739 secs
+num thrds = 8
+Done.
+size n   = 750
+average  = 0.30781441 secs
+num thrds = 1
+Done.
+size n   = 750
+average  = 0.16095710 secs
+num thrds = 2
+Done.
+size n   = 750
+average  = 0.08321943 secs
+num thrds = 4
+Done.
+size n   = 750
+average  = 0.04391353 secs
+num thrds = 8
+Done.
+size n   = 1000
+average  = 0.72911909 secs
+num thrds = 1
+Done.
+size n   = 1000
+average  = 0.37173886 secs
+num thrds = 2
+Done.
+size n   = 1000
+average  = 0.19025409 secs
+num thrds = 4
+Done.
+size n   = 1000
+average  = 0.09953818 secs
+num thrds = 8
+Done.
+size n   = 2000
+average  = 8.59947019 secs
+num thrds = 1
+Done.
+size n   = 2000
+average  = 4.32125859 secs
+num thrds = 2
+Done.
+size n   = 2000
+average  = 2.65613151 secs
+num thrds = 4
+Done.
+size n   = 2000
+average  = 1.47111299 secs
+num thrds = 8
+Done.
